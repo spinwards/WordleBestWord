@@ -1,4 +1,6 @@
-﻿The game of wordle consists of a hidden word that the user must guess. Solutions and guesses must be the same length.
+# WordleBestWord
+
+The game of wordle consists of a hidden word that the user must guess. Solutions and guesses must be the same length.
 Each guess is scored using a series of colored blocks, one for each letter. For each position, if the
 letter in the solution matches the guess, a green block is displayed. If the letter in the guess is
 contained in the solution, but not in the current position a yellow block is displayed. If the letter
