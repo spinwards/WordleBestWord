@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordleBestWord": {
+      "commandName": "Project",
+      "commandLineArgs": "./Data/shuffled_answers.txt ./Data/allowed_guesses.txt -s 1 -n 20"
+    }
+  }
+}
